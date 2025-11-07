@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francis Magallen
 ========================================================================================================================================
 
-Web Developer. Designer
------------------------
-
-I'm a web developer and designer with 10 years of experience. My mission? Creating stunning websites that make users go 'Wow!' With HTML, CSS, and JavaScript as my trusty sidekicks, I bring designs to life with interactivity that packs a punch. I'm all about collaboration, turning client visions into reality while staying on top of the latest trends and technologies. A website should be a perfect blend of beauty and brains, like a stylish superhero. So, let's team up and unleash our web-slinging powers to create something truly amazing! I promise to keep the coding jokes to a minimum unless you're up for some geeky humor – then we can make your website the funniest thing on the internet!
+I design and build for the web — clean code, bold ideas, and zero unnecessary noise.
 
 * 🌍  I'm based in Davao CIty, PH
 
